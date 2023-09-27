@@ -1,2 +1,13 @@
 {
+  "type": "service_account",
+  "project_id": "opensource-projects-398809",
+  "private_key_id": "44d3c4aa3f3b2c5ae4affa55aca475b08bb0d5bc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGakG1TVXE25Dy\nZGUu76x08hx30ymSRm4MF4nAOQfZXMkKJATMSqhCXq+HsihZaI4W98XenhhGWlEw\nK7bj369JWDDbwRlbtSjpibWDRNmNt3h67m5qQFscZ8oRE8OnU6/iE/596IY0jTdf\nCwNk7Zj/0UZn2YM2ir7TycQo7NIcAb3xJWkIauhW5H1JIIBASN0o9j36fuw7fOWR\nxz7VxflOdZFcIeu3FFX+BRfA9Fv1K25zlhY4oFHiYwrgY8PRUVClA2UOrGiy9N/o\n+8qB3jMchltUUNnMsfNpXO3PR0wby2G0pddHJZCGkh9IXkBieT1F5cZQu2h+MN9j\n0WZo0PthAgMBAAECggEAB0SQoW69V8o6z2TV36fX/2pNQyazujUvZkIoIaelIzU2\nyFLkmcQZUOG4LcZc8St3MEhapzUkyqeXxjsvsOilD9DLF12bIMTBxHjZcn8U4KVK\nDzyzxDC/yvT9Te3//R1/uY5bGdW+MWdufLeB+WeKSBfsa4o9jW5Rykm00FKeaU1R\nZ3PPoGi0ZAsPgpdEnpeq+qVODDPRQbiAv0/NeifSyu210q6p4ei2q9LpZjU+WsxB\nvJW5J3vCLil6BzBsMEUB9+QpibqOOnV9gX3BPauS4aOu0HC1M8DCE3wjdMYiC3/v\nTalu8DDBBrSWvDBJcCowVjD0m2+ohgkniscfAoy28QKBgQD98H+Oz4qRJyK+fh5/\nhSDW3bmPpEZglKCL5BzFcXYJQxV+yXblFUMIeBMI0ASR7HEvSdU63GGHVta11B71\nl+1EzxZwI/xsFoBBmgUSsoX65spN4LFmnghfJrI0oZdWv2pZGnszi/PT9ooPxIRl\n9JOI95EH47Hp7tskmi4y67I7eQKBgQDIBmtHzHnqbA73HB0uxTQIJPneI0LQZT13\nx5weM2BkfK5GjdE9pqaO2He+if7PWlKNfWZGjoJQGC6DNKfDcR3HuIOu5F4uG9LQ\nBdVuI1gN2c2rxfuShWRqCAt/Sm9u9iqCAuOiAL01XT/Ux5wl5ony3RL1iQLHwcib\n5U1gwd7dKQKBgQCwG3u7BL+qTqPPzBNGiILvwDESJvEPxcNZgMdbPoaHgdiEZx9n\nW8lzNCKvN+QTdxA/pUqVWYThoR2iWAtocwZ/c8ax2qMSKsCjvjbKcrhr+mZOgAdH\njU1s/58S1QXpiTItvSm349UjKJUyviy7sFQo5tfTytr1y0p7JdnoQoEGsQKBgGtH\nLhCC9TwqGlikBm7IK2DW3AAsry/vrGjqcKut6FvclueWNgu3rorcRFS31CbHjZD/\nGXRsCC4G2iNagUOMDmnIZy/MoUpfd9BD4LVCVX6QOwOOmp951WIc0HXDqUI82o2C\nGS4Q8WmGiq6HJBMbsw7DTODNS+Vw5DPgZoCnWe0JAoGAPpB1FdOfZ4UK83A61hj2\n3DMlPg0IqoDNcPAvMMHcjm3BU1RJSLku2VwO2wR0qCUPvY3KgSNoG73oE4kSzM3U\nPzLtek/mhToUuq640lZh+6WuLswed3ZfDnp+6PseRm9UpCBF90X1JrWyqCdgiCZ0\naPo3SCDCYxH0iiygPzYpYF8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "youtube-clone-demo@opensource-projects-398809.iam.gserviceaccount.com",
+  "client_id": "100610775714197049436",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/youtube-clone-demo%40opensource-projects-398809.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
 }
