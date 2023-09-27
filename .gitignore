@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Ignore google cloud credentials
+backend/src/main/resources/*.json
